@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bef922f-f0fc-48d5-98a2-fc1241360eae": {
+      "ProjectGuid": "4bef922f-f0fc-48d5-98a2-fc1241360eae",
+      "DisplayName": "APIServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
